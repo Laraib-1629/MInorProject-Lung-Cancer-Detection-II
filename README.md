@@ -1,2 +1,2 @@
-# MInorProject-Lung-Cancer-Detection-II
+# MinorProject-Lung-Cancer-Detection-II
 In this project I have used KNN &amp; decision tree algorithms to predict the accuracy of  cancer. In this project we use scikit-learn libraries like sklearn and pandas to predict and classify the dataset of lung cancer patients. Slicing the dataset and feature scaling options are used to trainthe dataset. After that we use a confusion matrix , f1 score and accuracy score to predict the accuracy of the result. 
